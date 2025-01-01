@@ -1,0 +1,29 @@
+[
+    {
+	"pos": { "x": 150, "y": -100},
+	"cardHeight": 250,
+	"roleData": {
+	    "title": "OPC & GDPR Trainee",
+	    "description": "Maintained the Record of Processing Activities in order to be compliant with EU Regulations regarding the GDPR guidelines. Assisted Project Managers on how to collect, maintain and use the Personal Data retrieved. Performed complex controls, in order to maintain a compliant BAU.",
+	    "company": {
+		"name": "[\\BNP Paribas - CIB]",
+		"startDate": "2022",
+		"endDate": "2023"
+	    }
+	}
+    },
+
+    {
+	"pos": {"x": 150, "y": 100},
+	"cardHeight": 250,
+	"roleData": {
+	    "tile": "Accounts Payable Analyst",
+	    "description": "Invoice processing, vendor reconsiliation and payment execution",
+	    "company": {
+		"name": "Air Liquide",
+		"startDate": "2024",
+		"endDate": "Present"
+	    }
+	}
+    }
+]
