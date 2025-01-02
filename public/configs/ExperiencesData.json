@@ -18,7 +18,7 @@
 	"cardHeight": 250,
 	"roleData": {
 	    "tile": "Accounts Payable Analyst",
-	    "description": "Invoice processing, vendor reconsiliation and payment execution",
+	    "description": "Invoice processing, vendor reconciliation and payment execution",
 	    "company": {
 		"name": "Air Liquide",
 		"startDate": "2024",
